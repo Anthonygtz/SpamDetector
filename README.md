@@ -8,7 +8,6 @@ This project is a creation of a Spam Detector algorithm, used to filter out unwa
 The following pictures show the data analysis:
 
 ![](images/image-1.png)
-![](images/Capture.png)
 
 ## Improvements 
 When creating the html interface, our goal was to make it simple and easy to use/navigate. All relevant testing/measurement information are clearly displayed on large tables centered in the middle of the page for easy viewing. The color palette and font are all consistent between the html pages, making traversal seamless. We made a separate section to provide an about page for reference as well as added animation.
