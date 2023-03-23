@@ -1,4 +1,4 @@
-# Assignment 01 - Spam Detector (Group Readme)
+# Spam Detector (Group Readme)
 > CSCI 2020U: Software Systems Development and Integration
 
 ## Project Information
