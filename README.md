@@ -1,5 +1,4 @@
 # Spam Detector
-> CSCI 2020U: Software Systems Development and Integration
 
 ## Project Information
 Group Members: Almas Alam, Anthony Gutierrez, Justin Li
