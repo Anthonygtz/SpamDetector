@@ -2,6 +2,7 @@
 
 ## Project Information
 Group Members: Almas Alam, Anthony Gutierrez, Justin Li
+
 This project is a creation of a Spam Detector algorithm, used to filter out unwanted spam messages and wanted ham messages from a client's inbox. This algorithm performs the calculations to find the accurate and precise methods to figure out which emails are designated as spam or are true emails.  
 
 The following pictures show the data analysis:
