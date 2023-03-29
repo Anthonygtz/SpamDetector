@@ -1,4 +1,4 @@
-SpamDetectorClient/file.java linguist-language=Java
-path/to/file.js linguist-language=JavaScript
-path/to/file.html linguist-language=HTML
-path/to/file.css linguist-language=CSS
+*.* linguist-language=Java
+*.* linguist-language=JavaScript
+*.* linguist-language=HTML
+*.* linguist-language=CSS
