@@ -1,1 +1,4 @@
-path/to/file.java linguist-language=Java JavaScript HTML CSS
+path/to/file.java linguist-language=Java
+path/to/file.js linguist-language=JavaScript
+path/to/file.html linguist-language=HTML
+path/to/file.css linguist-language=CSS
