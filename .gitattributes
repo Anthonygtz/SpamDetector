@@ -1,4 +1,1 @@
-*.* linguist-language=Java
-*.* linguist-language=JavaScript
-*.* linguist-language=HTML
-*.* linguist-language=CSS
+*.* linguist-language=Java, JavaScript
