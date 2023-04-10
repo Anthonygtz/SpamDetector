@@ -13,11 +13,11 @@ The following pictures show the data analysis:
 When creating the html interface, our goal was to make it simple and easy to use/navigate. All relevant testing/measurement information are clearly displayed on large tables centered in the middle of the page for easy viewing. The color palette and font are all consistent between the html pages, making traversal seamless. We made a separate section to provide an about page for reference as well as added animation.
 
 ## How to Run
-- Copy and paste the following url into your web browser: https://github.com/OntarioTech-CS-program/w23-csci2020u-assignment01-li-alam-gutierrez.git
+- Copy and paste the following url into your web browser: https://github.com/Anthonygtz/SpamDetector.git
 - This should lead to the github repository containing all relevant code to run the Spam Detector
 - Launch a terminal (ex: Git Bash, Anaconda Prompt, etc.)
 - Change directory into the one you wish to clone the project in
-- Use the 'git clone' command to clone this repository onto your local machine using the link above (ex: 'git clone https://github.com/OntarioTech-CS-program/w23-csci2020u-assignment01-li-alam-gutierrez.git')
+- Use the 'git clone' command to clone this repository onto your local machine using the link above (ex: 'git clone https://github.com/Anthonygtz/SpamDetector.git')
 - Once the repository has been cloned, launch IntelliJ and open the repository folder
 - Look on the left of IntelliJ to see the file structure of the project
 - Navigate to the 'SpamResource.java' file, located through 'spamDetectorServer/src/main/java/com.spamdetector/service/SpamResource.java'
